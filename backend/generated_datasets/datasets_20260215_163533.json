@@ -1,0 +1,157 @@
+{
+  "shor": [
+    33,
+    51,
+    85
+  ],
+  "grover": [
+    [
+      [
+        33
+      ],
+      64,
+      "1 item in 64 elements"
+    ],
+    [
+      [
+        42
+      ],
+      64,
+      "1 item in 64 elements"
+    ],
+    [
+      [
+        15
+      ],
+      128,
+      "1 item in 128 elements"
+    ],
+    [
+      [
+        12,
+        21,
+        53
+      ],
+      64,
+      "3 items in 64 elements"
+    ]
+  ],
+  "deutsch_jozsa": [
+    [
+      4,
+      "constant",
+      "4 qubits, constant function"
+    ],
+    [
+      3,
+      "constant",
+      "3 qubits, constant function"
+    ],
+    [
+      6,
+      "balanced",
+      "6 qubits, balanced function"
+    ],
+    [
+      4,
+      "balanced",
+      "4 qubits, balanced function"
+    ],
+    [
+      4,
+      "constant",
+      "4 qubits, constant function"
+    ],
+    [
+      6,
+      "balanced",
+      "6 qubits, balanced function"
+    ]
+  ],
+  "min_max": [
+    [
+      [
+        24,
+        50,
+        5,
+        18,
+        3,
+        46,
+        39,
+        17
+      ],
+      "Mixed random values"
+    ],
+    [
+      [
+        6,
+        99,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "Mostly 6s with unique max"
+    ],
+    [
+      [
+        79,
+        70,
+        29,
+        57,
+        31,
+        69,
+        74,
+        73
+      ],
+      "Random values 10-100"
+    ],
+    [
+      [
+        1,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "Mostly 7s with unique min"
+    ]
+  ],
+  "phase_estimation": [
+    [
+      0.25,
+      6,
+      "Phase = 1/4 (0.25), 6 qubits"
+    ],
+    [
+      0.625,
+      6,
+      "Phase = 5/8 (0.625), 6 qubits"
+    ],
+    [
+      0.125,
+      4,
+      "Phase = 1/8 (0.125), 4 qubits"
+    ],
+    [
+      0.355,
+      4,
+      "Phase = 0.355 (non-dyadic), 4 qubits"
+    ],
+    [
+      0.625,
+      6,
+      "Phase = 5/8 (0.625), 6 qubits"
+    ],
+    [
+      0.25,
+      4,
+      "Phase = 1/4 (0.25), 4 qubits"
+    ]
+  ]
+}
